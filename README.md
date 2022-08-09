@@ -27,3 +27,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YuryAmonsky" alt="statistics" />
 </div>
+
+<div>
+  <img src="assets/giftstore.jpg">
+  <img src="assets/starwars-intro.gif">  
+</div>
