@@ -1,6 +1,6 @@
 <h1 align="center"> Привет! 👋  Меня зовут Юрий.</h1>
 
-<table width="100%" align="center">
+<table width="100%" align="center" >
   <tr>
     <td width="200">
       <div>
