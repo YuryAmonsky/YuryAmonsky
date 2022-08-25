@@ -27,7 +27,7 @@
         <br/>
         <div align="center">
 Мои достижения на codewars<br>
-          <img src="https://www.codewars.com/users/AmonskyYN/badges/small" style="top: 30px"/>
+          <img src="https://www.codewars.com/users/yamonsky/badges/small" style="top: 30px"/>
         </div>  
         <br/>
         <div align="center">
