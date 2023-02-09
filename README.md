@@ -41,7 +41,8 @@
     <td width="16%">
       <div>
         <img src="assets/giftstore.jpg">
-        <img src="assets/starwars-intro.gif">  
+        <img src="assets/starwars-intro.gif">
+        <img src="assets/enlightment.jpg">
       </div>
     </td>  
  <tr>    
